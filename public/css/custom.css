@@ -1,0 +1,74 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.img1{
+    width: 100%;
+    height: 100px;
+}
+.img2{
+    width: 100%;
+    height: 840px;
+}
+.img3{
+     width: 100%;
+     height: 600px;
+ }
+.img4{
+    width: 100%;
+    height: 305px;
+}
+.img5{
+    width: 100%;
+    height: 1060px;
+}
+.img6{
+    width: 100%;
+    height: 625px;
+}
+.img7{
+    width: 100%;
+    height: 1510px;
+}
+.img8{
+    width: 100%;
+    height: 1045px;
+}
+.img9{
+    width: 100%;
+    height: 845px;
+}
+.img10{
+    width: 100%;
+    height: 940px;
+}
+.b1{
+    display: flex;
+}
+.b2{
+    display: flex;
+}
+.b3{
+    display: flex;
+}
+.b4{
+    display: flex;
+}
+.b5{
+    display: flex;
+}
+.b6{
+    display: flex;
+}
+.b7{
+    display: flex;
+}
+.b8{
+    display: flex;
+}
+.b9{
+    display: flex;
+}
+.b10{
+    display: flex;
+}
